@@ -6,7 +6,6 @@
 
 ```javascript
 const beka = {
-  pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS, C_C++, Python3],
   askMeAbout: ["web dev", "tech", "app dev"],
   tools: [React, Redux, Node, Express, ReactRouter],
