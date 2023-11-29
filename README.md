@@ -1,5 +1,5 @@
 <h2> Hi, I'm Bekzot! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Computer science third year student at <a href="https://iitu.edu.kz/en/">IITU </a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Computer science fourth year student at <a href="https://iitu.edu.kz/en/">IITU </a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 <p>
   <em><a href="https://react-portfolio-lji98uxgj-unix238.vercel.app/">portfolio</a>
