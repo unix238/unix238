@@ -10,7 +10,7 @@
 ```javascript
 const aboutMe = {
   code: ["Javascript", "Typescript", "C_C++", "Python3"],
-  askMeAbout: ["web dev", "tech", "anime"],
+  askMeAbout: ["web dev", "tech"],
   tools: ["React", "ReactRouter", "Redux", "Node", "Express", "MongoDB"],
   architecture: ["Progressive web applications", "Single page applications"],
 
